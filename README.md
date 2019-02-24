@@ -5,7 +5,7 @@
 
 Our [code of conduct](code_of_conduct.md) in english.
 
-Nosso [código de conduta](codigo-de-contuda.md) em pt-br.
+Nosso [código de conduta](codigo-de-conduta.md) em pt-br.
 
 
 
