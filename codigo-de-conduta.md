@@ -82,7 +82,7 @@ Se você acha que foi falsamente ou injustamente acusado de violar este Código 
 
 # Escopo
 
-Esperamos que todos as pessoas que visitam ou participam da comunidade do Garoa sigam este Código de Conduta em todos os locais — on-line e presenciais — bem como em todas as comunicações relacionadas às atividades do Arara maker.
+Esperamos que todos as pessoas que visitam ou participam da comunidade do Arara maker sigam este Código de Conduta em todos os locais — on-line e presenciais — bem como em todas as comunicações relacionadas às atividades do Arara maker.
 
 
 # Licença e atribuição
